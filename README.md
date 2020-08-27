@@ -20,3 +20,15 @@ The metric used for evaluating the performance of classification model would be 
 **Public and Private Split**
 
 Note that the test data is further randomly divided into Public (35%) and Private (65%) data. Your initial responses will be checked and scored on the Public data. The final rankings would be based on your private score which will be published once the competition is over.
+
+**Score**
+
+nltk + tf-idf + lr   =  0.8736
+
+spacy + bow + nb = 0.8808
+
+bert = 0.9073
+
+**Leaderboard**
+
+Public - Rank-43(sahil8307)
